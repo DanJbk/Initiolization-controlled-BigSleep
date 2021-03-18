@@ -1,6 +1,8 @@
 # Initiolization-controlled-BigSleep
 
-A stirpped down version of the BigSleep NoteBook edited to support initiolization around latent spaces of a chosen class or mix of classes. This simple change allows better convergence for related prompts and more appealing results.
+A stirpped down version of the BigSleep NoteBook edited to support initiolization around latent spaces of a chosen class or mix of classes. This simple change allows better convergence for related prompts and more appealing results. 
+
+This notebook is a fork of https://colab.research.google.com/drive/12CnlS6lRGtieWujXs3GQ_OlghmFyl8ch?usp=sharing
 
 __Examples:__
 
